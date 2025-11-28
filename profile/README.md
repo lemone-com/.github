@@ -1,4 +1,4 @@
-![Banner](https://lemone.com/app/uploads/2021/12/social-sharing-default.jpg)
+![Banner](https://raw.githubusercontent.com/lemone-com/.github/master/profile/social-sharing-default.jpg)
 
 
 # Wij zijn Lemone
